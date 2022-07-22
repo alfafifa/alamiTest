@@ -1,6 +1,8 @@
 # Alami-test
 
 ## Installation steps
+- $ git clone https://github.com/alfafifa/alamiTest.git
+- cd alamiTest
 - yarn
 - cd ios && pod install
 
